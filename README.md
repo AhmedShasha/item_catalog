@@ -4,7 +4,7 @@ This project is a RESTful web application utilizing the Flask framework which ac
 <ul>
   <li> clone or downlad the repo on your  virtual machine and vagrant </li>
   <li> Run python database_setup.py to create the DB </li>
-  <li> Run python project.py by vagrant </li>
+  <li> Run python _init_.py by vagrant </li>
   <li> open your webbrowser and visit http://localhost:8000 </li>
   
  </ul>
